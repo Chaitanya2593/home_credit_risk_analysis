@@ -13,10 +13,15 @@ Home Credit is already using various statistical and machine learning methods to
 ![home_credit_scheme_diagram](https://user-images.githubusercontent.com/43069698/142184714-bed0bf6c-a183-4dd3-b1e7-1df0d273fa4b.png)
 
 
-# Configuration:
+## Configuration:
 
 - For this analysis we have used python packages (basic anaconda packages), Tableau and essential MS offices tools. 
 - The repos contains the Tableau worksheet which has all the latest vizulization. 
 - In addition to in the ../home-credit-default-risk/Table_cleaning_notebooks one can find the python notebooks used for the EDA and Data Preprocessing.
 - Inside the ../home-credit-default-risk/Cleaned_dataset we have placed the notebook called Master_table_notebook.ipynb where u can find data merge and model buidling steps
 
+## Tableau Public Dashboard 
+https://public.tableau.com/app/profile/mvs.chaitanya/viz/CreditRiskAnalysis_16362852398140/External_sources_1
+
+## DataSource:
+https://www.kaggle.com/c/home-credit-default-risk/data
